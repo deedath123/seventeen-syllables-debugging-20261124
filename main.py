@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Seventeen Syllables of Debugging — entry.
 
-Writes the locked 5-7-5 haiku (75 chars) to /output/entry.txt.
+Writes the locked 5-7-5 haiku (70 chars) to /output/entry.txt.
 Stdlib only.
 """
 
